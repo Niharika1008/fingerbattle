@@ -29,14 +29,8 @@
 
 ## 🔗 Live Preview
 
-👉 [Live Demo]
+👉 [Live Demo] : https://niharika1008.github.io/fingerbattle/
 
-## 📸 Screenshot
-
-![Finger Battle](https://github.com/Niharika1008/Portfolio/blob/058af283a0133c9718137c82755af89a34f5b30b/assets/finger-battle.png)
-![Finger Battle](https://github.com/Niharika1008/Portfolio/blob/1815118fee8f6dcf6d14f5e6ea9173422befb825/assets/finger-fisaco-b.png)
-
----
 
 ## 📦 Getting Started
 
